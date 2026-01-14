@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,76 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# 🍽️ School Canteen Management System
+
+A modern, responsive web application for managing a school canteen's digital ordering system.  
+Students can browse snacks, place orders, and track their spending and order history in real-time.
+
+---
+
+## ✨ Features
+
+## 📸 Screenshots
+
+### 🛒 Snacks Page
+![Snacks Page](screenshots/snacks-page.png)
+
+### 🧾 Order Modal
+![Order Modal](screenshots/order-modal.png)
+
+### 👨‍🎓 Students Page
+![Students Page](screenshots/students-page.png)
+
+### 📊 Student Detail Page (Order History)
+![Student Detail](screenshots/student-detail.png)
+
+### ➕ Create Student Page
+![Create Student](screenshots/create-student.png)
+
+
+### Core Functionality
+
+- 🛒 **Browse Snacks** – View all available snacks with prices and popularity  
+- 👨‍🎓 **Student Management** – Create and manage student profiles  
+- 📦 **Order Placement** – Place orders with quantity selection (1–5 items)  
+- 💰 **Spending Tracking** – Automatic calculation of total spending per student  
+- 📊 **Order History** – Complete order history for each student  
+- 🔄 **Real-time Updates** – Live updates of order counts and spending  
+
+### Technical Features
+
+- ⚡ Fast and responsive UI  
+- 🎨 Modern design using Tailwind CSS  
+- 📱 Fully responsive (Mobile, Tablet, Desktop)  
+- ✅ Form validation using React Hook Form  
+- 🔌 RESTful API integration with JSON Server  
+- 🎯 Component-based architecture  
+- 🗂️ Global state management using Zustand  
+- 🚦 Loading states and error handling  
+- 🎭 Modal-based interactions  
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+- React 18  
+- React Router DOM  
+- Zustand  
+- React Hook Form  
+- Axios  
+- Tailwind CSS  
+
+### Backend
+
+- JSON Server (Mock REST API)
+
+### Development Tools
+
+- npm  
+- ES6+ JavaScript  
+
+
+>>>>>>> 223834b8a92c9ced82d0823cb6a5845d5ead302a
