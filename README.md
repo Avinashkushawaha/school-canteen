@@ -11,7 +11,7 @@ Students can browse snacks, place orders, and track their spending and order his
 ## 📸 Screenshots
 
 ### 🛒 Snacks Page
-![Snacks Page](screenshots/snacks-page.png)
+![Snacks Page](SnacksPage.png)
 
 ### 🧾 Order Modal
 ![Order Modal](screenshots/order-modal.png)
