@@ -14,16 +14,16 @@ Students can browse snacks, place orders, and track their spending and order his
 ![Snacks Page](SnacksPage.png)
 
 ### 🧾 Order Modal
-![Order Modal](screenshots/order-modal.png)
+![Order Modal](OrderModal.png)
 
 ### 👨‍🎓 Students Page
-![Students Page](screenshots/students-page.png)
+![Students Page](studentpage.png)
 
 ### 📊 Student Detail Page (Order History)
-![Student Detail](screenshots/student-detail.png)
+![Student Detail](OrderHistory.png)
 
 ### ➕ Create Student Page
-![Create Student](screenshots/create-student.png)
+![Create Student](createStudent.png)
 
 
 ### Core Functionality
